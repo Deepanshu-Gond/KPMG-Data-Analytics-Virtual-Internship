@@ -31,6 +31,11 @@ Developed a dashboard using Tableau that displays the data summary and results o
 - Which customer segment has the highest customer value
 - Which industry provides more profit
 
+### Dashboard
+  ![SPROCKET Dashboard](https://github.com/Deepanshu-Gond/KPMG-Data-Analytics-Virtual-Internship/assets/77718765/d20ee5c1-1f06-4af3-9b5b-1b117b249356)
+
+
 ## Certificate
-[KPMG Data Analytics Consulting Certificate.pdf](https://github.com/Deepanshu-Gond/KPMG-Data-Analytics-Virtual-Internship/files/12014542/KPMG.Data.Analytics.Consulting.Certificate.pdf)
+![KPMG Data Analytics Certificate](https://github.com/Deepanshu-Gond/KPMG-Data-Analytics-Virtual-Internship/assets/77718765/4b2cc412-7d8f-48a4-924b-0a02345004e5)
+
 
