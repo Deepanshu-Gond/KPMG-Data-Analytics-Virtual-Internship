@@ -1,4 +1,4 @@
-# KPMG Data Analytics Virtual Internship
+# KPMG: Data Analytics Virtual Internship
 In this online program, I got to complete similar work that Graduates do at KPMG. I learned what it is like working at one of the world’s best data analytics teams and built the skills required to excel as an analytics consultant.
 
 ## Background
